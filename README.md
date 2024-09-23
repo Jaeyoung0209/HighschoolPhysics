@@ -7,4 +7,5 @@ The entire game was made by me including the code, artwork, sound effects, backg
 ![image](https://github.com/user-attachments/assets/fb7b40d1-e7e8-4625-810b-b3ed20101326)
 
 # How To Play
-Arrow keys to move and jump.
+- Arrow keys to move and jump
+- Dodge everything white
