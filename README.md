@@ -1,15 +1,10 @@
 # HighschoolPhysics
-Dodging platformer game about physics made for a 2-week game jam
+Dodging platformer game about physics made for a 2-week game jam LOWREZJAM2021
 The game can be played online: https://j02.itch.io/highschool-physics
 
 The entire game was made by me including the code, artwork, sound effects, background music, etc.
 
-Overall Positives:
-* The game concept is straightforward
-* Mechanics is easy to understand
-* Has a background music
+![image](https://github.com/user-attachments/assets/fb7b40d1-e7e8-4625-810b-b3ed20101326)
 
-Overall Negatives:
-* Difficulty is too high -> Could've been fixed with enough playtesting
-* Potential bug with the scoring system
-* Needs better indication of what objects can be touched
+# How To Play
+Arrow keys to move and jump.
